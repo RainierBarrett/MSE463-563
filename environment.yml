@@ -1,4 +1,4 @@
-name: mse463
+name: mse
 channels:
   - conda-forge
   - bioconda
